@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\t430\\Desktop\\Recyclerview-demo\\AndroidJsonDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\t430\\Desktop\\Recyclerview-demo\\AndroidJsonDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "C:\\Users\\leobui\\Desktop\\game new\\Android_JSONParsing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\Users\\leobui\\Desktop\\game new\\Android_JSONParsing\\app\\src\\main\\res\\layout\\main.xml"
     }
